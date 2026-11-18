@@ -4,7 +4,7 @@ AuditDoc AI is a Streamlit web app that audits a **healthcare dataset together w
 
 > **Important:** AuditDoc AI is an exploratory academic tool. It is **not** a clinical validation, regulatory assessment or certification of any model. A "Passed" result means no problem was found by these specific checks; it never proves a model is safe, unbiased or free of leakage.
 
-**Live app:**(https://auditdocai.streamlit.app/) · **Project:** AuditDocAI — *Automated Audit Framework for Healthcare AI Models* (Healthcare Analytics)
+**Live app:**(https://auditdocai.streamlit.app/) · **Project:** AuditDocAI — *Automated Audit Framework for Healthcare AI Models* -Healthcare Analytics
 
 ---
 
